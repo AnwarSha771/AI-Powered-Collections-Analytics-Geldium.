@@ -43,7 +43,7 @@ This project documents fairness checks, bias mitigation, transparency for AI pre
 
 ## 👨‍💼 Author
 
-_Your Name_  
+_shakil_anwar_  
 Forage Virtual Internship Participant
 
 ---
